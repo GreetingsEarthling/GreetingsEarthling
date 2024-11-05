@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreetingsEarthling
 - 👀 I’m interested in anything coding!
-- 🌱 I’m currently learning iOS and Front-End Development.
+- 🌱 I’m currently learning Data Science and AI.
 - 📫 Need to reach me?: jasf0186@gmail.com
 - ⚡ Fun fact: I have my very own homegym setup!
 
