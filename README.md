@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreetingsEarthling
 - 👀 I’m interested in anything coding!
-- 🌱 I’m currently learning about Open Source and iOS Development.
+- 🌱 I’m currently learning about Open Source and Full-Stack Development.
 - 📫 Need to reach me?: jasf0186@gmail.com
 - ⚡ Fun fact: I have my very own homegym setup!
 
